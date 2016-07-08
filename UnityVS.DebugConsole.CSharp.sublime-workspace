@@ -1,0 +1,457 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dir",
+				"dir_name"
+			],
+			[
+				"RPC",
+				"RPCMode	RPCMode"
+			],
+			[
+				"pos",
+				"posZ	float"
+			],
+			[
+				"m",
+				"sharedMesh	Mesh { get; set; }"
+			],
+			[
+				"is",
+				"isTrigger	bool { get; set; }"
+			],
+			[
+				"Mesh",
+				"MeshCollider	MeshCollider"
+			],
+			[
+				"end",
+				"endregion	endregion"
+			],
+			[
+				"Game",
+				"GameObject	GameObject"
+			],
+			[
+				"GameObjec",
+				"GameObject(string name)	GameObject(string name)"
+			],
+			[
+				"Vecto",
+				"Vector3	Vector3"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 262.0,
+		"last_filter": "Remove",
+		"selected_items":
+		[
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Packagere",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ignore",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"omn",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 368.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cd ",
+			"c:\\",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Work/GHOR/Tanktastic2_PC/bin/Android/build/Tanktastic 2/AndroidManifest.xml",
+		"/C/Users/reive/AppData/Local/Temp/Rar$DIa0.337/AndroidManifest.xml",
+		"/C/Users/reive/AppData/Local/Temp/Rar$DIa0.246/AndroidManifest.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Utils/Preferences.cs",
+		"/C/Users/reive/AppData/Local/Temp/Rar$DIa0.520/AndroidManifest.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Plugins/StansAssets/Android/AndroidManifest.txt",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/TanktasticNetwork/Scripts/Network/Network.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/bin/PC/RadioTest_Data/output_log.txt",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Materials/minimap_render.mat",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Unit/Chassis/TrackChassisController.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Unit/Chassis/GroundChassisController.cs",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/bin/Android/UPD_changes.txt",
+		"/D/Work/Scripts/ttcopy.py",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/Assets/Scripts/Utils/Utils.cs",
+		"/D/Work/GHOR/TanktasticNetworkSetupKit/Builds/Server_Data/output_log.txt",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Plugins/Android/VKLib/bin/AndroidManifest.xml",
+		"/D/Work/GHOR/TanktasticNetworkSetupKit/uZone_server/uz_server.cfg",
+		"/D/Work/GHOR/TanktasticNetworkSetupKit/uZone_node/uz_node.cfg",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/Assets/Scripts/Utils/Preferences.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Plugins/StansAssets/Android/AN_Res/AndroidManifest.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Plugins/StansAssets/Android/AndroidManifest.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Plugins/Android/AndroidManifest.xml",
+		"/C/Users/reive/AppData/Local/Temp/Rar$DIa0.710/AndroidManifest.xml",
+		"/C/Users/reive/AppData/Local/Temp/Rar$DIa0.689/helloworld.txt",
+		"/D/Work/GHOR/TanktasticNetworkSetupKit/Builds/Lobby_Data/output_log.txt",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/Assets/Add-ons/UniWeb/Plugins/HTTP/Response.cs",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/Assets/Scripts/Utils/ArmorComponent.cs",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/bin/Android/UPD_изменения.txt",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/QuickSpawnPool/Scenes/DemoMap_PrespawnData.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/QuickSpawnPool/Scenes/Winter_PrespawnData.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/QuickSpawnPool/Scenes/Training_PrespawnData.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Game/Game.cs",
+		"/D/Work/MyProjects/Advanced Coroutines/Assets/Add-ons/AdvancedCoroutines/Plugins/Routine.cs",
+		"/C/Users/reive/Desktop/Новый текстовый документ.txt",
+		"/C/Users/reive/Downloads/readme.txt",
+		"/D/Soft/Visual Assist/Visual Assist 10.9 (2089)/README.txt",
+		"/D/Movies/Visual Assist/Visual Assist 10.9 (2098)/README.txt",
+		"/D/Soft/PVS-Studio 6.0/readme.txt",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/QuickSpawnPool/Pool.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/Reiven/TestPerfomance.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/AirAIAgents/AIAgent/AirUnitGameLogic_proxy.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/AirAIAgents/AIAgent/AirUnitGameLogic_server.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/AirAIAgents/AIAgent/JetGameLogic_proxy.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/AirAIAgents/AIAgent/JetGameLogic_server.cs",
+		"/C/Users/reive/Desktop/AdvancedCoroutines FAQ.txt",
+		"/C/Users/reive/AppData/Local/Temp/Rar$DIa0.862/Newtonsoft.Json.xml",
+		"/D/Work/Test/CoroutineTest/Assets/Script/CoroutineManager.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/QuickSpawnPool/Scenes/OilField_PrespawnData.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Networking/Server/Server.cs",
+		"/C/Users/reive/AppData/Local/Temp/Rar$DIa0.269/ExampleSnippets.txt",
+		"/C/Users/reive/AppData/Local/Temp/Rar$DIa0.457/ExceptionTests.cs",
+		"/D/Work/MyProjects/Advanced Coroutines/Assets/Add-ons/AdvancedCoroutines/Documentation/TODO.txt",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/ObjectScripts/CoroutineManagerTest.cs",
+		"/D/Work/MyProjects/Advanced Coroutines/Assets/Add-ons/AdvancedCoroutines/AdvancedCoroutines.cs",
+		"/D/Work/GHOR/TanktasticLibraries/TanktasticLibraries/AdvancedCoroutines/bin/Debug/AdvancedCoroutines.XML",
+		"/D/Work/Test/CoroutineTest/Assets/Add-ons/CoroutinesExtention.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/QuickSpawnPool/Scenes/Test.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/QuickSpawnPool/Scenes/_PrespawnData.xml",
+		"/D/Work/GHOR/Tanktastic2_PC/Test.xml",
+		"/C/Users/reive/AppData/Local/Temp/Rar$DIa0.393/son_run.json",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Unit/Chassis/ChassisController.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/UnityVS.Tanktastic2_PC.sublime-project",
+		"/C/Users/reive/OneDrive/Документы/Tanktastic/SublimeSettings/tanktastic2_PC-sublime.sublime-project",
+		"/C/Users/reive/OneDrive/Документы/Tanktastic/SublimeSettings/tanktastic2_PC-sublime.sublime-workspace",
+		"/C/Users/reive/OneDrive/Документы/Tanktastic/SublimeSettings/Tanktastic2_PC-csharp.sublime-workspace",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Add-ons/WaterPlus/Shaders/WaterPlusInclude.cginc",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/Assets/Meshes/Maps/Military/Textures/Military_watermap.png.meta",
+		"/C/Users/reive/Desktop/Ultimate PC Build.txt",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/Assets/Add-ons/WaterPlus/Shaders/WaterPlusInclude.cginc",
+		"/C/Users/reive/Desktop/Ultimate PC Build",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/Assets/StompyRobot/SRDebugger/Resources/SRDebugger/UI/Prefabs/Trigger.prefab",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/Assets/StompyRobot/SRDebugger/Resources/SRDebugger/UI/Prefabs/Tabs/Profiler.prefab",
+		"/D/Work/GHOR/Tanktastic2_Android_5.3.4f1/Assets/StompyRobot/SRDebugger/Resources/SRDebugger/UI/Prefabs/Tabs/Options.prefab.meta",
+		"/d/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Game/Game.cs",
+		"/d/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Networking/Player.cs",
+		"/d/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Networking/Client/OnlineClient.cs",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/Reiven.tmTheme",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/TODOCsharp.sublime-syntax",
+		"/C/Users/reive/OneDrive/Документы/Tanktastic/SublimeSettings/MySyntaxHighlighter/Dunjun.tmTheme",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/Tron.tmTheme",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/Dunjun.tmTheme",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/XML.sublime-settings",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/BlueLover.tmTheme",
+		"/d/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/AirAIAgents/System/Waypoint/Aircraft/TrajectoryGenerator.cs",
+		"/d/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Unit/UnitGameLogic.cs",
+		"/d/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/AirAIAgents/AIAgent/AirUnitGameLogic_server.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/Unit/Weaponry/WeaponryTypes/AirBomb.cs",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/unity.tmTheme",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/GroundAIAgents/AIAgent/MainGroundAIController.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Meshes/Maps/_Prefabs/Environment/BarrelsAndCisterns/Tank Military.prefab",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Meshes/Maps/_Prefabs/Environment/Buildings/Houses/Red building Military.prefab",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Meshes/Maps/_Prefabs/Environment/Buildings/TacticalBuildings/RLS Military.prefab",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Meshes/Maps/_Prefabs/Environment/Buildings/Hangars/Hangar Military.prefab",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Meshes/Maps/_Prefabs/Environment/Buildings/Hangars/Cottage Military.prefab",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/AirAIAgents/System/AirAIControlCenter_sever.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Editor/LevelEditor.cs",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/Predawn/predawn.sublime-theme",
+		"/D/Work/GHOR/Tanktastic2_PC/tanktastic2_PC-sublime.sublime-project",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Resources/Radio.prefab",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/GroundAIAgents/AIAgent/AIAgentBehavior/SimpleBehaviour.cs",
+		"/C/Program Files/Sublime Text 3/Packages/User/unity.tmTheme",
+		"/D/Work/GHOR/Tanktastic2_PC/Tanktastic2_PC-csharp.sln",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/d/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/GroundAIAgents/AIAgent/GroundAISearchModule.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/TeamAIControlCenter.cs",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/NameGenerator.cs.meta",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/AIDebug.meta",
+		"/D/Work/GHOR/Tanktastic2_PC/Assets/Scripts/AI/NameGenerator.cs",
+		"/C/Users/reive/AppData/Roaming/Sublime Text 3/Packages/User/C#.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 157.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LAUN",
+			"Laun",
+			"LAUNCHER",
+			"IP",
+			"[Team",
+			"Pool",
+			"[Pool",
+			"Bomb",
+			">\n",
+			"[LevelLMSubstitution.cs] SubstituteInstance()",
+			"LMS",
+			"Instantiate",
+			"pixelPerfect",
+			"sortorder",
+			"key",
+			"sr",
+			"back",
+			"#",
+			"364B26",
+			"RPC_AirAI_",
+			"RPC_AirAI_GenerateTrajectory",
+			"LRPC(205)",
+			"sphere",
+			"Vector3",
+			"case",
+			"Vector3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 55.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "UnityVS.DebugConsole.CSharp.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"netwo",
+				"Assets\\Add-ons\\TanktasticNetwork\\Scripts\\Network\\Network.cs"
+			],
+			[
+				"server.cs",
+				"Assets\\Scripts\\Networking\\Server\\Server.cs"
+			],
+			[
+				"airunitgamelogic_server",
+				"Assets\\Scripts\\AI\\AirAIAgents\\AIAgent\\AirUnitGameLogic_server.cs"
+			],
+			[
+				"netw",
+				"Assets\\Add-ons\\TanktasticNetwork\\Scripts\\Network\\Network.cs"
+			],
+			[
+				"airai",
+				"Assets\\Scripts\\AI\\AirAIAgents\\System\\AirAIControlCenter_sever.cs"
+			],
+			[
+				"helicoptergamelogic_proxy",
+				"Assets\\Scripts\\AI\\AirAIAgents\\AIAgent\\HelicopterGameLogic_proxy.cs"
+			],
+			[
+				"helicopterga",
+				"Assets\\Scripts\\AI\\AirAIAgents\\AIAgent\\HelicopterGameLogic_server.cs"
+			],
+			[
+				"airunitai",
+				"Assets\\Scripts\\AI\\AirAIAgents\\AIAgent\\AirUnitGameLogic_proxy.cs"
+			],
+			[
+				"jetgam",
+				"Assets\\Scripts\\AI\\AirAIAgents\\AIAgent\\JetGameLogic_server.cs"
+			],
+			[
+				"je",
+				"Assets\\Scripts\\AI\\AirAIAgents\\AIAgent\\JetGameLogic_proxy.cs"
+			],
+			[
+				"jet",
+				"Assets\\Scripts\\AI\\AirAIAgents\\AIAgent\\JetGameLogic_proxy.cs"
+			],
+			[
+				"jetgame",
+				"Assets\\Scripts\\AI\\AirAIAgents\\AIAgent\\JetGameLogic_proxy.cs"
+			],
+			[
+				"leveleditor",
+				"Assets\\Editor\\LevelEditor.cs"
+			],
+			[
+				"jetgamelogic_server",
+				"Assets\\Scripts\\AI\\AirAIAgents\\AIAgent\\JetGameLogic_server.cs"
+			],
+			[
+				"prefe",
+				"Assets\\Scripts\\Utils\\Preferences.cs"
+			],
+			[
+				"tan",
+				"tanktastic2_PC-sublime.sublime-project"
+			],
+			[
+				"airaicontrolcenter_",
+				"Assets\\Scripts\\AI\\AirAIAgents\\System\\AirAIControlCenter_sever.cs"
+			],
+			[
+				"bomb",
+				"Assets\\Scripts\\Unit\\Weaponry\\WeaponryTypes\\AirBomb.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
